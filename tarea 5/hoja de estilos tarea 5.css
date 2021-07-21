@@ -1,0 +1,62 @@
+h1{
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:lavender ;
+    font-size: large;
+    padding-top: 10px;
+    width: 120px;
+    height: 50px;
+
+}
+h2{
+    color:darkslateblue;
+    font-family: cursive;
+}
+h3 {
+    color: darkred;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+.p1rojo{
+    color:darkorange ;
+    font-style: inherit;
+    font-family: 'Qahiri', sans-serif;
+    background-color: red;
+    font-size: large;
+    
+}
+
+.p1azul {    
+    color: darkorange;
+    font-style: inherit;
+    font-family: monospace;
+    background-color: blue;
+    font-size: large;
+    
+}
+.lavender{
+    background-color: lightsalmon;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: greenyellow;
+
+    
+}
+div {
+    padding: 50px;
+    background-color: lightskyblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border: 5px solid black ;
+    
+
+    
+
+
+    
+    
+    }
